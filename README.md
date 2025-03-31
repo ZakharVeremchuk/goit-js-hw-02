@@ -1,1 +1,1 @@
-https://zaharveremchuk.github.io/goit-js-hw-02/
+https://zakharveremchuk.github.io/goit-js-hw-02/
